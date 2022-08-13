@@ -1,5 +1,5 @@
 # Mental-Health-Detector
- This is and ai based mental hental Health Dectector Project. The Input are taken via arduio UNO and some sensor. And the gui application is developed by tkinter .
+ This is and ai based mental hental Health Dectector Project. The Input are taken via arduino UNO and some sensor. And the gui application is developed by tkinter .
 ![WhatsApp Image 2022-05-22 at 6 23 53 PM](https://user-images.githubusercontent.com/59875796/184346720-25d7350f-83be-4455-b8ad-61e1519596c6.jpeg)
 ![pc5](https://user-images.githubusercontent.com/59875796/184345694-7b932324-b67c-456a-be2a-b437a9002db5.png)
 ![WhatsApp Image 2022-05-17 at 7 38 32 PM (1)](https://user-images.githubusercontent.com/59875796/184346801-883d24f3-10a2-4b35-a658-c30eb209d712.jpeg)
